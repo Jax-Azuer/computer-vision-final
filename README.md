@@ -1,10 +1,16 @@
-# computer-vision-final
+### computer-vision-final
+This is our coputer vision final project. It includes a classifier and a convolutional neural network model. 
 
--dog_breed                     Model training dataset  
--dog_classifier.xml            openCV classifier, detecting and boxing dog objects   
--dog_recognition.py            main function recognizing the breeds of dogs 
--dogbreed.h5     		     Convolutional model  
--dognet_train.py               function training convolutional model 
--load_dataset.py               loading data from local path    
+### File Description 
+|  File&Dir name   | Usage  |
+|  ----  | ----  |
+| dog_breed |                   Model training dataset  
+| dog_classifier.xml |          OpenCV classifier, recognizing dogs in an input image and captureing close-up photo of dog   
+| dog_recognition.py |          Main function recognizing and classifying dogs. It is compiled in Windows environment. 
+| dogbreed.h5 |     		        Convolutional neural network model  
+| dognet_train.py |             Function training CNN model 
+| load_dataset.py |             loading the training samples from local directories
 
-Reference to: https://github.com/Hironsan/BossSensor
+
+### Reference 
+- https://github.com/Hironsan/BossSensor
