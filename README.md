@@ -9,7 +9,7 @@ This is our coputer vision final project. It includes a classifier and a convolu
 | dog_recognition.py |          Main function recognizing and classifying dogs. It is compiled in Windows environment. 
 | dogbreed.h5 |     		        Convolutional neural network model  
 | dognet_train.py |             Function training CNN model 
-| load_dataset.py |             loading the training samples from local directories
+| load_dataset.py |             Loading the training samples from local directories
 
 ### Performance
 <img src="demo_1.png" width="200" height="217" align="middle" />
