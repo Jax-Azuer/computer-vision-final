@@ -4,7 +4,7 @@ This is our coputer vision final project. It includes a classifier and a convolu
 ### File Description 
 |  File&Dir name   | Usage  |
 |  ----  | ----  |
-| dog_breed |                   Model training dataset  
+| dog_breed |                   Dataset of training samples
 | dog_classifier.xml |          OpenCV classifier, recognizing dogs in an input image and captureing close-up photo of dog   
 | dog_recognition.py |          Main function recognizing and classifying dogs. It is compiled in Windows environment. 
 | dogbreed.h5 |     		        Convolutional neural network model  
